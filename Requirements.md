@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Requirements
-permalink: Requirements
+title: Tiger Requirements
 ---
 
 <html>
