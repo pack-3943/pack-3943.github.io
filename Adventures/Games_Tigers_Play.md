@@ -1,3 +1,7 @@
+---
+layout: page
+title:  Tigers-Adventures
+---
 
 # Tiger Adventure: Games Tigers Play
 
