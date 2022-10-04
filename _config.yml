@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a informational Page for Troop 3943
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  https://github.com/Troop-3943
+github_username:  Troop-3943
 gems:
     - jekyll-leaflet
 # Build settings
