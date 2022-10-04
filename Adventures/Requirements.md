@@ -42,7 +42,7 @@ layout: page
 </div>
 
 <div id="Tigers In The Wild" class="w3-container city" style="display:none">
-{% capture my_include %}{% include_relative Tigers_In_The_Wild.md %}{% endcapture %}
+{% capture my_include %}{% include_relative Tigers_In_Wild.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </div>
 <div id="My Tiger Jungle" class="w3-container city" style="display:none">
