@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Tigers-Adventures
+title:  Games Tigers Play
 ---
 
 # Tiger Adventure: Games Tigers Play
