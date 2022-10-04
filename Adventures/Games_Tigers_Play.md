@@ -1,7 +1,7 @@
 
 # Tiger Adventure: Games Tigers Play
 
-## Complete Requirements 1 and 2 plus at least two others.
+## Complete Requirements 1 and 2 plus at least two others
 
 1. Do the following:
 
@@ -18,5 +18,3 @@
 5. Do the following:
     * Attend a sporting event with your den or family.
     * Before or after the event, talk with a coach or athlete about what it is like to participate in the sport. OR Find out more about the sport and share what you have learned with your den or family members before or after the event.
-
-[PDF Format](http://usscouts.org/advance/cubscout/workbooks/Tiger/Games-Tigers-Play.pdf)
