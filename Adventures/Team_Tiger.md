@@ -2,7 +2,7 @@
 
 # Complete requirements 1 and 2 plus at least two others
 
-1. With your parent, guardian, or other caring adult, or with your den, talk about what it means to be part of a team.List some of the teams you are on (den, pack, family, class,etc.), and explain how you can help each one.
+1. With your parent, guardian, or other caring adult, or with your den, talk about what it means to be part of a team. List some of the teams you are on (den, pack, family, class,etc.), and explain how you can help each one.
 
 2. With your den, talk about your Tiger team. Then make a
 chart showing all the different ways team members can
