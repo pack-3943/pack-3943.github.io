@@ -1,7 +1,3 @@
----
-layout: page
-title:  Tigers In The Wild
----
 # Tiger Adventure: Tigers In The Wild
 
 ## Complete requirements 1-3 plus at least one other.

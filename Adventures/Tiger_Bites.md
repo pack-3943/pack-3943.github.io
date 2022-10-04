@@ -1,7 +1,3 @@
----
-layout: page
-title:  Tiger Bites 
----
 # Tiger Adventure: Tiger Bites
 
 ## Complete requirements 1 and 2 plus at least two others.

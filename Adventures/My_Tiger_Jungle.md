@@ -1,7 +1,3 @@
----
-layout: page
-title:  My Tiger Jungle
----
 # Tiger Adventure: My Tiger Jungle
 
 ## Complete requirement 1 plus at least two others

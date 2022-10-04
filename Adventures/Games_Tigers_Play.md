@@ -1,8 +1,3 @@
----
-layout: page
-title:  Games Tigers Play
----
-
 # Tiger Adventure: Games Tigers Play
 
 ## Complete Requirements 1 and 2 plus at least two others

@@ -1,7 +1,3 @@
----
-layout: page
-title:  Tiger Circles Duty To God
----
 # Tiger Adventure: Tiger Circles Duty To God
 
 ## Complete requirement 1 plus at least two others.

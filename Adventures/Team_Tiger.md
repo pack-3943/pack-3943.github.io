@@ -1,7 +1,3 @@
----
-layout: page
-title:  Team Tiger
----
 # Tiger Adventure: Team Tiger
 
 # Complete requirements 1 and 2 plus at least two others
