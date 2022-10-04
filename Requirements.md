@@ -21,31 +21,31 @@ permalink: Requirements
 </div>
 
 <div id="Games Tigers Play" class="w3-container city">
-{% capture my_include %}{% include_relative Games_Tigers_Play.md %}{% endcapture %}
+{% capture my_include %}{% include_relative _Adventures/Games_Tigers_Play.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </div>
 
 <div id="Team Tiger" class="w3-container city" style="display:none">
-{% capture my_include %}{% include_relative Team_Tiger.md %}{% endcapture %}
+{% capture my_include %}{% include_relative _Adventures/Team_Tiger.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </div>
 
 <div id="Tiger Bites" class="w3-container city" style="display:none">
-{% capture my_include %}{% include_relative Tiger_Bites.md %}{% endcapture %}
+{% capture my_include %}{% include_relative _Adventures/Tiger_Bites.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </div>
 
 <div id="Tiger Circles" class="w3-container city" style="display:none">
-{% capture my_include %}{% include_relative Tiger_Circles_Duty_To_God.md %}{% endcapture %}
+{% capture my_include %}{% include_relative _Adventures/Tiger_Circles_Duty_To_God.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </div>
 
 <div id="Tigers In The Wild" class="w3-container city" style="display:none">
-{% capture my_include %}{% include_relative Tigers_In_Wild.md %}{% endcapture %}
+{% capture my_include %}{% include_relative _Adventures/Tigers_In_Wild.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </div>
 <div id="My Tiger Jungle" class="w3-container city" style="display:none">
-{% capture my_include %}{% include_relative My_Tiger_Jungle.md %}{% endcapture %}
+{% capture my_include %}{% include_relative _Adventures/My_Tiger_Jungle.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </div>
 
