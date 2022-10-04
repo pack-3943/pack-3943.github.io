@@ -1,0 +1,14 @@
+title: Welcome to the misfits
+email: 1phillip.guzman@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is a place where friends roll dice, and act a conquering hero!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: D8-Misfits
+github_username:  D8-Misfits
+gems:
+    - jekyll-leaflet
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
