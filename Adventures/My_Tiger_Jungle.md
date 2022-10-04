@@ -1,6 +1,10 @@
+---
+layout: page
+title:  My Tiger Jungle
+---
 # Tiger Adventure: My Tiger Jungle
 
-## Complete requirement 1 plus at least two others.
+## Complete requirement 1 plus at least two others
 
 1. With your parent, guardian, or other caring adult, go for awalk outside and pick out two or more sights or sounds of"nature"around you. Discuss with your partner or den.
 

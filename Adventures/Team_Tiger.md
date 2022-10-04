@@ -1,7 +1,10 @@
-
+---
+layout: page
+title:  Team Tiger
+---
 # Tiger Adventure: Team Tiger
 
-# Complete requirements 1 and 2 plus at least two others.
+# Complete requirements 1 and 2 plus at least two others
 
 1. With your parent, guardian, or other caring adult, or with your den, talk about what it means to be part of a team.List some of the teams you are on (den, pack, family, class,etc.), and explain how you can help each one.
 
