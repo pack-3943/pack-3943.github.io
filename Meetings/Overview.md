@@ -1,3 +1,7 @@
+---
+layout: page
+title:  Den Meetings
+---
 # DEN MEETINGS AT A GLANCE
 
 ## PREPARATION AND MATERIALS NEEDED
