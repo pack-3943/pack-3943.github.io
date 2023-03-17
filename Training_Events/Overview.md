@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Training and Local Events
+title:  
 ---
 
 ###  Council Event Calendars
@@ -13,8 +13,8 @@ title:  Training and Local Events
 
 ### Adult Training Links
 
-[Adult Online Training Courses]("http://www.scouting.org/Training/Adult.aspx")
+[Adult Online Training Courses](http://www.scouting.org/Training/Adult.aspx)
 
-[Youth Protection Training]("http://olc.scouting.org/info/ypt.html")
+[Youth Protection Training](http://olc.scouting.org/info/ypt.html)
 
-[Virtus Training]("http://www.virtus.org/virtus/")
+[Virtus Training](http://www.virtus.org/virtus/)
