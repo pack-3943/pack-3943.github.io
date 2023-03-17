@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Training and Events"
+title:  Training and Events
 ---
 
 ###  Council Event Calendars
