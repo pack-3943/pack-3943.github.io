@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title:  ""
 ---
 
 ###  Council Event Calendars
@@ -15,6 +15,8 @@ title:
 
 [Adult Online Training Courses](http://www.scouting.org/Training/Adult.aspx)
 
-[Youth Protection Training](http://olc.scouting.org/info/ypt.html)
+[Youth Protection Training](https://www.scouting.org/training/youth-protection/)
 
 [Virtus Training](http://www.virtus.org/virtus/)
+
+[DCFS Training](https://mr.dcfstraining.org/)
