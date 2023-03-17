@@ -1,3 +1,7 @@
+---
+layout: page
+title:  Training and Local Events
+---
 # Training and Local Events
 
 ###  Council Event Calendars
