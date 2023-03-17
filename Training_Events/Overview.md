@@ -12,8 +12,10 @@ title:  Training and Local Events
 
 [Northeast Illinois Council](https://scoutingevent.com/129)
 
-### Adult Trainging Links
+### Adult Training Links
 
-<h3><a href="http://www.scouting.org/Training/Adult.aspx" target="_blank">Adult Online Training Courses</a></h3>
-<h3><a href="http://olc.scouting.org/info/ypt.html" target="_blank">Youth Protection Training</a></h3>
-<h3><a href="http://www.virtus.org/virtus/" target="_blank">Virtus Training</a></h3>
+[Adult Online Training Courses]("http://www.scouting.org/Training/Adult.aspx")
+
+[Youth Protection Training]("http://olc.scouting.org/info/ypt.html")
+
+[Virtus Training]("http://www.virtus.org/virtus/")
