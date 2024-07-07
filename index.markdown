@@ -13,7 +13,7 @@ Cub Scout Pack 3943’s mission supports the overarching MISSION of the Boy Scou
 .linkbutton {
   display: inline-block;
   padding: 10px; margin: 5px;
-  color: #fff; background: #323875;
+  color: #F6D63A; background: #323875;
   text-decoration: none;
 }
 </style>
