@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Pack 3943 Welcomes You!
+## Pack 3943 Welcomes You!
 
 Cub Scout Pack 3943 is an organization that engages our community’s young boys and girls and their families with fun, interactive, educational activities and exposes them to a variety of experiences. These activities are planned and delivered through fully trained, resourceful and responsible volunteer leaders and focus on basic values that help prepare young people to make exceptional choices over their lifetime.
 
