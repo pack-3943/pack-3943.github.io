@@ -5,19 +5,6 @@ title: Home
 
 # Pack 3943 Welcomes You!
 
-<html>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
-<style>
-p {
-  background-image: url('image/scoutEmbl.png');
-  background-repeat: no-repeat;
-  background-color: #1c87c9;
-}
-
-
 ### Troop 943
 [Link](http://www.bsatroop943.net/)
 
@@ -29,7 +16,3 @@ p {
 
 ### St. Monica 
 [Link](https://stmonica.us/)
-
-</style>
-</body>
-</html>
