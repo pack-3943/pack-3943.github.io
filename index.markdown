@@ -9,8 +9,14 @@ Cub Scout Pack 3943 is an organization that engages our community’s young boys
 
 Prepared. For Life.
 Cub Scout Pack 3943’s mission supports the overarching MISSION of the Boy Scout’s of America: To prepare young people to make ethical and moral choices over their lifetimes by instilling in them the values of the Scout Oath and Law.
-
-<a class="btn btn-yellow gradient animated tada" href="https://my.scouting.org/online-registration/3a5b47f3-0868-4146-914f-f8d36bc34fb9/applicant-type" target="_blank" rel="noopener noreferrer">Join Now!</a>
+<style>
+.linkbutton {
+  display: inline-block;
+  padding: 10px; margin: 5px;
+  color: #fff; background: #8a110b;
+  text-decoration: none;
+}
+<button><a class="linkbutton" href="https://my.scouting.org/online-registration/3a5b47f3-0868-4146-914f-f8d36bc34fb9/applicant-type" target="_blank" rel="noopener noreferrer">Join Now!</a></button></style>
 
 ### Troop 943
 [Link](http://www.bsatroop943.net/)
