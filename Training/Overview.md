@@ -3,7 +3,7 @@ layout: default
 title:  Training and Events
 ---
 
-###  Council Event Calendars
+### Council Event Calendars
 
 [Rainbow Council](https://www.rainbowcouncil.org/calendar/)
 
