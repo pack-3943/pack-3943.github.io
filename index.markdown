@@ -16,9 +16,7 @@ p {
   background-repeat: no-repeat;
   background-color: #1c87c9;
 }
-</style>
-</body>
-</html>
+
 
 ### Troop 943
 [Link](http://www.bsatroop943.net/)
@@ -31,3 +29,7 @@ p {
 
 ### St. Monica 
 [Link](https://stmonica.us/)
+
+</style>
+</body>
+</html>
