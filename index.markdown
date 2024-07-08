@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-## Pack 3943 Welcomes You!
-
 ### Calling all Adventurers!
 
 Are you ready for a year of fun, exploration, and learning? Cub Scout Pack 3943 is excited to welcome new boys (and their families!) to our exciting pack!
@@ -16,11 +14,12 @@ Are you ready for a year of fun, exploration, and learning? Cub Scout Pack 3943 
 * Building Character: We focus on core values that help young people make ethical choices and become responsible citizens.
 
 * Family Fun: Cub Scouts is a family adventure! Parents and guardians are encouraged to participate alongside their children, creating lasting memories.
-Our dedicated volunteer leaders are all trained and passionate about helping young people grow and develop.
 
-Ready to join the Pack?
+**Our dedicated volunteer leaders** are all trained and passionate about helping young people grow and develop.
 
-We invite you to explore the exciting world of Cub Scouts with Pack 3943. Prepared. For Life.
+**Ready to join the Pack?**
+
+We invite you to explore the exciting world of Cub Scouts with Pack 3943. **Prepared. For Life.**
 <style>
 .linkbutton {
   display: inline-block;
