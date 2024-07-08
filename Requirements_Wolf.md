@@ -48,8 +48,6 @@ title: Wolf Requirements
 {% capture my_include %}{% include_relative _WolfAdventures/RunningWithThePack.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </div>
-
-
 <script>
 function openCity(cityName) {
   var i;

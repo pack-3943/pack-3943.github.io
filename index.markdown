@@ -5,10 +5,22 @@ title: Home
 
 ## Pack 3943 Welcomes You!
 
-Cub Scout Pack 3943 is an organization that engages our community’s young boys and girls and their families with fun, interactive, educational activities and exposes them to a variety of experiences. These activities are planned and delivered through fully trained, resourceful and responsible volunteer leaders and focus on basic values that help prepare young people to make exceptional choices over their lifetime.
+### Calling all Adventurers!
 
-Prepared. For Life.
-Cub Scout Pack 3943’s mission supports the overarching MISSION of the Boy Scout’s of America: To prepare young people to make ethical and moral choices over their lifetimes by instilling in them the values of the Scout Oath and Law.
+Are you ready for a year of fun, exploration, and learning? Cub Scout Pack 3943 is excited to welcome new boys (and their families!) to our exciting pack!
+
+### At Pack
+
+* Engaging Activities: We offer a variety of interactive programs that are both educational and entertaining. From building pinewood derby cars, to learning to camp, there's something for everyone!
+
+* Building Character: We focus on core values that help young people make ethical choices and become responsible citizens.
+
+* Family Fun: Cub Scouts is a family adventure! Parents and guardians are encouraged to participate alongside their children, creating lasting memories.
+Our dedicated volunteer leaders are all trained and passionate about helping young people grow and develop.
+
+Ready to join the Pack?
+
+We invite you to explore the exciting world of Cub Scouts with Pack 3943. Prepared. For Life.
 <style>
 .linkbutton {
   display: inline-block;
@@ -18,7 +30,6 @@ Cub Scout Pack 3943’s mission supports the overarching MISSION of the Boy Scou
 }
 </style>
 <a class="linkbutton" href="https://my.scouting.org/online-registration/3a5b47f3-0868-4146-914f-f8d36bc34fb9/applicant-type" target="_blank" rel="noopener noreferrer">Join Now!</a>
-
 
 ### Troop 943
 [Link](http://www.bsatroop943.net/)
