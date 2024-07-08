@@ -8,6 +8,5 @@ github_username:  Pack-3943
 gems:
     - jekyll-leaflet
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
