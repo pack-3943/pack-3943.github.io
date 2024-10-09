@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+<body>
 <head>
 <style>
 .dropdown {
