@@ -12,9 +12,9 @@ title: Home
 </style>
 </head>
 </body>
-<h2>
+<h1>
   Pack 3943
-</h2>
+</h1>
 
 ### Calling all Adventurers
 
