@@ -9,9 +9,10 @@ title: Home
  font-family: Arial;
 }
 </style>
+
 # Pack 3943
 
-### Calling all Adventurers
+## Calling all Adventurers
 
   Are you ready for a year of fun, exploration, and learning? Cub Scout Pack 3943 is excited to welcome new boys and girls (and their families!) to our exciting pack!
 

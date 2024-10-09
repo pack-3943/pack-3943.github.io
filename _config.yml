@@ -13,6 +13,6 @@ plugins:
   - jekyll-feed
 
 tab_pages:
-  - title: "meetings"
-    path: Overview.md
-    url: "/Meetings"
+  - title: "about"
+    path: about.md
+    url: "/about"
