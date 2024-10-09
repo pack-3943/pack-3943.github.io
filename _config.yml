@@ -3,7 +3,7 @@ email: 1phillip.guzman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a informational Page for Pack 3943
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https:/pack3943.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Pack-3943
 gems:
     - jekyll-leaflet
