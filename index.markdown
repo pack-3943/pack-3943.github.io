@@ -28,24 +28,21 @@ title: Home
 }
 </style>
 </head>
-<body>
 
-<h2>Pack 3943</h2>
+<h2>
+  Pack 3943
+</h2>
 
-
-<div class="dropdown">
-  <span>About Pack 3943</span>
-  <span>About Scouting</span>
-  <div class="dropdown-content">
-  <p> Calling all Adventurers!</p>
-  Are you ready for a year of fun, exploration, and learning? Cub Scout Pack 3943 is excited to welcome new boys (and their families!) to our exciting pack!
-  </div>
-</div>
-
+<nav>
+  <ul>
+   <li><a href="" class="current">Home</a></li>
+   <li><a href="" class="current">About</a></li>
+  </ul>
 </body>
-###
 
+### Calling all Adventurers
 
+  Are you ready for a year of fun, exploration, and learning? Cub Scout Pack 3943 is excited to welcome new boys and girls (and their families!) to our exciting pack!
 
 ### At Pack
 
@@ -71,13 +68,17 @@ We invite you to explore the exciting world of Cub Scouts with Pack 3943. **Prep
 <a class="linkbutton" href="https://my.scouting.org/online-registration/3a5b47f3-0868-4146-914f-f8d36bc34fb9/applicant-type" target="_blank" rel="noopener noreferrer">Join Now!</a>
 
 ### Troop 943
+
 [Link](http://www.bsatroop943.net/)
 
 ### Pathway To Adventure Council
+
 [Link](https://pathwaytoadventure.org/)
 
-### TriStar District 
+### TriStar District
+
 [Link](https://pathwaytoadventure.org/districts/tristar/)
 
-### St. Monica 
+### St. Monica
+
 [Link](https://stmonica.us/)
