@@ -4,6 +4,15 @@ title: Home
 ---
 <body>
 <head>
+<header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">  Pack 3943</a><nav class="site-nav">
+        <label for="nav-trigger">
+          <span class="menu-icon">
+          </span>
+        </label>
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/characters.html">Characters</a><a class="page-link" href="/cyphr.html">Cyphr</a><a class="page-link" href="/map.html">Map</a><a class="page-link" href="/slang.html">Slang</a><a class="page-link" href="/timeline.html">Timeline</a></div>
+      </nav></div>
 <style>
 * {
  font-size: 100%;
