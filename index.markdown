@@ -29,7 +29,7 @@ title: Home
 }
 </style>
 </head>
-
+</body>
 <h2>
   Pack 3943
 </h2>
@@ -39,7 +39,8 @@ title: Home
    <li><a href="" class="current">Home</a></li>
    <li><a href="" class="current">About</a></li>
   </ul>
-</body>
+</nav>
+
 
 ### Calling all Adventurers
 
