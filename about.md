@@ -43,15 +43,18 @@ brave,
 clean,
 and reverent.
 
-Cub Scout Moto:
+### Cub Scout Moto:
+
 “Do your best.”
 
 One of the key concepts in the Cub Scouting is that the Pack helps the Cub Scout grow, but the Pack can only do that if it is growing as well. Growth, in the case of the Pack, is not limited to membership but also growth with regard to what we have to offer our Scouts.
 
 In our current culture there are many demands on families that cause them to have to carefully choose how they are spending their time and resources. Those demands include, but are not limited to: sports and other extracurricular activities; work; academics; budgetary; and social interests. In order to attract and retain Cub Scouts, we must provide something of value to them.
 
-Parent Participation
+### Parent Participation
+
 Every Parent, Caregiver (Akela) is required to volunteer in some capacity every year. A system for communicating and tracking volunteer needs/requirements should be developed and maintained. For those who are unable to volunteer, a alternative option may be provided, i.e., providing supplies and/or additional resources.
 
-Pack Location
-Pack 3943 is chartered by the Hillsdale PTO. We generally hold our Pack Meetings in the Hillsdale Elementary School Gymnasium (725 West Market Street, West Chester, PA) on the third Friday of every month throught the school year. Some exceptions to meeting dates and locations are made depending on our Pack Meeting program and other school events.  Meeting date and location will be noted on the Pack Calendar and in the News & Events section of this website.
+### Pack Location
+
+Pack 3943 is chartered by Saint Monica Catholic Church, and hold our Pack Meetings in at Rzany Hall (75136 N. Nottingham Chicago, IL 60656).
