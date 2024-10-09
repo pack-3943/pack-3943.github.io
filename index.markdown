@@ -67,6 +67,9 @@ We invite you to explore the exciting world of Cub Scouts with Pack 3943. **Prep
 </style>
 <a class="linkbutton" href="https://my.scouting.org/online-registration/3a5b47f3-0868-4146-914f-f8d36bc34fb9/applicant-type" target="_blank" rel="noopener noreferrer">Join Now!</a>
 
+<div class="iframe-rwd movie wide"><iframe loading="lazy" src="https://www.youtube.com/embed/_Ob9TqddFSY?rel=0&amp;showinfo=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
+
+
 ### Troop 943
 
 [Link](http://www.bsatroop943.net/)
