@@ -5,27 +5,9 @@ title: Home
 <body>
 <head>
 <style>
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
 * {
  font-size: 100%;
  font-family: Arial;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  padding: 12px 16px;
-  z-index: 1;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
 }
 </style>
 </head>
@@ -33,14 +15,6 @@ title: Home
 <h2>
   Pack 3943
 </h2>
-
-<nav>
-  <ul>
-   <li><a href="" class="current">Home</a></li>
-   <li><a href="" class="current">About</a></li>
-  </ul>
-</nav>
-
 
 ### Calling all Adventurers
 
@@ -71,19 +45,11 @@ We invite you to explore the exciting world of Cub Scouts with Pack 3943. **Prep
 
 <div class="iframe-rwd movie wide"><iframe loading="lazy" src="https://www.youtube.com/embed/_Ob9TqddFSY?rel=0&amp;showinfo=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
 
+* [Troop 943](http://www.bsatroop943.net/)
+* [Pathway To Adventure Council](https://pathwaytoadventure.org/)
+* [TriStar District](https://pathwaytoadventure.org/districts/tristar/)
+* [St. Monica Catholic Chursh](https://stmonica.us/)
 
-### Troop 943
-
-[Link](http://www.bsatroop943.net/)
-
-### Pathway To Adventure Council
-
-[Link](https://pathwaytoadventure.org/)
-
-### TriStar District
-
-[Link](https://pathwaytoadventure.org/districts/tristar/)
-
-### St. Monica
-
-[Link](https://stmonica.us/)
+<footer>
+<p style="text-align: center">5136 N Nottingham Ave, Chicago, IL 60656</p>
+</footer>
