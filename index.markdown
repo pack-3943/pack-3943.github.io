@@ -9,11 +9,7 @@ title: Home
  font-family: Arial;
 }
 </style>
-</head>
-</body>
-<h1>
-  Pack 3943
-</h1>
+# Pack 3943
 
 ### Calling all Adventurers
 
