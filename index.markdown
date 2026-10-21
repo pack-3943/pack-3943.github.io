@@ -5,6 +5,8 @@ layout: default
   <div class="wrap">
     <h1>Cub Scout Pack 3943</h1>
     <p class="hero-tag">Adventure for the whole family</p>
+    <h2>5136 N. Nottingham</h2>
+    <h2>Chicago, IL 60656</h2>
     <a class="button" href="{{ 'https://beascout.scouting.org/units/3a5b47f3-0868-4146-914f-f8d36bc34fb9' | relative_url }}">Join Pack 3943</a>
   </div>
 </section>
@@ -24,7 +26,7 @@ layout: default
 
 <section class="motto">
   <div class="wrap motto-row">
-    <h2>Our motto: Do your best</h2>
+  <h2>Our motto: Do your best</h2>
   </div>
 </section>
 
