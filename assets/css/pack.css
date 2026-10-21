@@ -28,6 +28,7 @@ h3{font-size:1.2rem;font-weight:600}
 /* Home */
 .hero{background:var(--navy);color:#fff;text-align:center;padding:4rem 0 4.5rem;background-image: url('waterfront-betz.jpg');background-repeat: no-repeat;background-attachment: fixed;background-position: center bottom;}
 .hero h1{color:#fff}
+.hero h2{color:#fff}
 .hero-tag{font-size:1.35rem;margin:0 0 1.75rem}
 .button{display:inline-block;background:var(--gold);color:var(--navy);font-weight:600;text-decoration:none;padding:.75rem 1.75rem;border-radius:.4rem}
 .button:hover{background:#ffd34d}
