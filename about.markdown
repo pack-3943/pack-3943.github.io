@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-## About Cub Scout Pack 3943
 
-### Pack 3943’s Mission
+Based at St. Monica Academy, our Cub Scout pack welcomes girls and boys in kindergarten through fifth grade. Families camp together all year: fall camping at Rock Cut State Park, winter cabin camp, a March trip to the Indiana Dunes, and family summer camp. Scouts also race in our Pinewood Derby and Pushmobile Race, earn adventures, and make friends, with parents taking part alongside them. We meet the last Friday of each month.
 
 Pack 3943 is an organization that engages our community’s young boys and girls and their families with fun, interactive, educational activities and exposes them to a variety of experiences. These activities are planned and delivered through fully trained, resourceful and responsible leaders and focus on basic values that help prepare young people to make exceptional choices over their lifetime.
 
@@ -23,10 +22,6 @@ And to obey the Scout Law;
 To help other people at all times;
 To keep myself physically strong,
 mentally awake, and morally straight.
-
-### Cub Scout Salute
-
-![image](cubscout.png)
 
 ### The Scout Law
 

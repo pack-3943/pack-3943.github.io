@@ -1,0 +1,16 @@
+# Header and footer links. Edit this file to add or reorder pages.
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Calendar
+  url: /calendar/
+- title: Contact Us
+  url: /contact/
+# Add these once the folders have index pages:
+# - title: Meetings
+#   url: /Meetings/
+# - title: Training
+#   url: /Training/
+- title: Scouting America
+  url: https://www.scouting.org/programs/cub-scouts/
