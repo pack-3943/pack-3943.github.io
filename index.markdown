@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
+
 <section class="hero">
-  <div class="wrap">
-    <h1>Cub Scout Pack 3943</h1>
-    <p class="hero-tag">Adventure for the whole family <br/> 5136 N. Nottingham <br/>Chicago, IL 60656 </p>
-    <a class="button" href="{{ 'https://beascout.scouting.org/units/3a5b47f3-0868-4146-914f-f8d36bc34fb9' | relative_url }}">Join Pack 3943</a>
+<div class="wrap">
+   <h1>Cub Scout Pack 3943</h1>
+<p class="hero-tag">5136 N. Nottingham<br>Chicago, IL 60656</p>
   </div>
+   <a class="button" href="https://beascout.scouting.org/units/3a5b47f3-0868-4146-914f-f8d36bc34fb9">Join Pack 3943</a>
 </section>
 
 <section class="band">
@@ -16,7 +17,8 @@ layout: default
       <p>Cub Scouting is a year-round program for boys and girls from kindergarten through fifth grade. Kids learn new skills, earn badges, and make friends. Parents and caregivers take part as much as they are able, from helping at a meeting to camping together as a family.</p>
     </div>
     <div>
-      <p>Along the way, Scouts practice the values in the Scout Oath and Law, and families build memories that last well beyond the years in the pack.</p>
+    <h2>What is Cub Scouting?</h2>
+      <p>We’re all about encouraging boys and girls to make friends, be helpful to others, and do their very best no matter the outcome. With the help of powerful learning projects and exciting outdoor activities, we aim to teach children that doing their best can be a fun and rewarding experience—no matter the difficulty of the challenge.</p>
       <p><a href="{{ '/about/' | relative_url }}">Read our mission and the Scout Oath and Law</a></p>
     </div>
   </div>

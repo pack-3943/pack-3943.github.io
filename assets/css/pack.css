@@ -33,8 +33,13 @@ h3{font-size:1.2rem;font-weight:600}
   background-position:center bottom;
   background-repeat:no-repeat;
   color:#fff;text-align:center;padding:4rem 0 4.5rem;
+  text-shadow:0 2px 6px rgba(0,0,0,.6),0 0 20px rgba(11,47,99,.8);
 }.hero h1{color:#fff}
 .hero h2{color:#fff}
+.button{
+  text-shadow:none;
+  background:var(--gold);
+}
 .hero-tag{font-size:1.35rem;margin:0 0 1.75rem}
 .button{display:inline-block;background:var(--gold);color:var(--navy);font-weight:600;text-decoration:none;padding:.75rem 1.75rem;border-radius:.4rem}
 .button:hover{background:#ffd34d}
