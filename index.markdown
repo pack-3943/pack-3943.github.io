@@ -3,11 +3,12 @@ layout: default
 ---
 
 <section class="hero">
-<div class="wrap">
-   <h1>Cub Scout Pack 3943</h1>
-<p class="hero-tag">5136 N. Nottingham<br>Chicago, IL 60656</p>
+  <img class="hero-photo" src="{{ '/image/waterfront-betz.png' | relative_url }}" alt="Pack 3943 at the waterfront at Camp Betz">
+  <div class="wrap hero-content">
+    <h1>Cub Scout Pack 3943</h1>
+    <p class="hero-tag">5136 N. Nottingham<br>Chicago, IL 60656</p>
+    <a class="button" href="https://beascout.scouting.org/units/3a5b47f3-0868-4146-914f-f8d36bc34fb9">Join Pack 3943</a>
   </div>
-   <a class="button" href="https://beascout.scouting.org/units/3a5b47f3-0868-4146-914f-f8d36bc34fb9">Join Pack 3943</a>
 </section>
 
 <section class="band">
