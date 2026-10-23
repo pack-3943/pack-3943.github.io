@@ -28,8 +28,8 @@ h3{font-size:1.2rem;font-weight:600}
 /* Home */
 .hero{
   background-color:var(--navy);
-  background-image:linear-gradient(rgba(11,47,99,.55),rgba(11,47,99,.55)),url('/image/waterfront-betz.png');
-  background-size:cover;
+  background-image:url('/image/waterfront-betz.png');
+  background-size:contain;
   background-position:center bottom;
   background-repeat:no-repeat;
   color:#fff;text-align:center;padding:4rem 0 4.5rem;
