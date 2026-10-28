@@ -33,19 +33,19 @@ layout: default
 
 <section class="band">
   <div class="wrap">
-    <h2>What Cub Scouts do</h2>
+    <h2>What families do in Pack 3943</h2>
     <div class="three-col">
       <div>
-        <h3>Get outdoors</h3>
-        <p>Hikes, campouts, and games with friends and family.</p>
+        <h3>Camp together all year</h3>
+        <p>Fall at Rock Cut State Park, a winter cabin camp, spring at Indiana Dunes, and family summer camp.</p>
       </div>
       <div>
-        <h3>Earn achievements</h3>
-        <p>Each den works toward badges and adventures at its own grade level.</p>
+        <h3>Race and earn adventures</h3>
+        <p>Scouts build cars for our Pinewood Derby, compete in the Pushmobile Race, and earn adventures at their own grade level.</p>
       </div>
       <div>
-        <h3>Help others</h3>
-        <p>Service projects and pack events that put the Scout Oath into practice.</p>
+        <h3>Meet monthly</h3>
+        <p>We meet the last Friday of each month, 7:00 to 8:30 PM, at St. Monica.</p>
       </div>
     </div>
   </div>
@@ -55,6 +55,8 @@ layout: default
   <div class="wrap">
     <h2>About Cub Scout Pack 3943</h2>
     <p>Pack 3943 is chartered by Saint Monica Catholic Church and meets at Rzany Hall in Chicago.</p>
-    <a class="button" href="{{ '/contact/' | relative_url }}">Join Pack 3943</a>
+    <h2>Come see for yourself</h2>
+    <p>Boys and girls in kindergarten through fifth grade are welcome. It costs $97 to join, and fundraising helps cover costs.</p>
+     <a class="button" href="{{ '/contact/' | relative_url }}">Join Pack 3943</a>
   </div>
 </section>
